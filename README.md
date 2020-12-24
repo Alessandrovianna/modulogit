@@ -1,1 +1,2 @@
-Meu primeiro projeto no GIT
+Meu segundo projeto no GIT
+Nova linha adicionada
