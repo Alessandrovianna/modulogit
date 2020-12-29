@@ -1,2 +1,3 @@
-Meu segundo projeto no GIT
-Nova linha adicionada
+Aprendendo como subir atualização para o GITHUB
+
+Tudo certo
